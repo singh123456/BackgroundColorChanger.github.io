@@ -1,0 +1,19 @@
+#h{
+    text-align: center;
+    color: gold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn{
+    color: black;
+    background-color: orange;
+    border-radius: 12px;
+    width: 100px;
+    height: 30px;
+    margin-left: 700px;
+    margin-top: 200px;
+}
+.btn:hover{
+    background-color: yellowgreen;
+    transition: 0.3s;
+    
+}
